@@ -19,7 +19,7 @@
 <h3> :sparkles: Preview </h3>
 <hr/>
 
-<img src="https://i.ibb.co/tMqmgkv/starbucks.png](https://i.ibb.co/8zN36Pc/Clean-Shot-2023-08-22-at-18-20-03.gif" alt="coffeeapp" border="0">
+<img src="https://i.ibb.co/8zN36Pc/Clean-Shot-2023-08-22-at-18-20-03.gif" alt="coffeeapp" border="0">
 
 
 <h3> :link: Web Link </h3>
@@ -27,8 +27,6 @@
   <p>Click :point_right:  </p>
 
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimmyyoung&layout=compact)](https://github.com/Kimmyyoung/github-readme-stats" />
 <h3> :memo: Platforms & Languages  </h3>
 <hr/>
 
