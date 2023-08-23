@@ -19,16 +19,12 @@
 <h3> :sparkles: Preview </h3>
 <hr/>
 
-<img src="https://i.ibb.co/tMqmgkv/starbucks.png" alt="starbucks" border="0">
+<img src="https://i.ibb.co/tMqmgkv/starbucks.png](https://i.ibb.co/8zN36Pc/Clean-Shot-2023-08-22-at-18-20-03.gif" alt="coffeeapp" border="0">
 
 
 <h3> :link: Web Link </h3>
 <hr/>
   <p>Click :point_right:  </p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimmyyoung%2FKimbucks&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br/>
 
 
 
