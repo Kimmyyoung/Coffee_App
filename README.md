@@ -19,7 +19,7 @@
 <h3> :sparkles: Preview </h3>
 <hr/>
 
-<img src="https://i.ibb.co/8zN36Pc/Clean-Shot-2023-08-22-at-18-20-03.gif" width="300px" height="max-content" alt="coffeeapp" border="0">
+<img src="https://velog.io/51f19434-2472-41b3-a079-a36a897ea240" width="300px" height="max-content" alt="coffeeapp" border="0">
 
 
 <h3> :link: Web Link </h3>
