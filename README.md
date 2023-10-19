@@ -15,14 +15,6 @@
   <p> React Native Expo CLI </p>
   
   
-  
-<h3> :sparkles: Preview </h3>
-<hr/>
-
-<img src="https://i.ibb.co/9ZK8WzX/React-app.gif" alt="React-app" border="0">
-
-
-
 
 <h3> :memo: Platforms & Languages  </h3>
 <hr/>
