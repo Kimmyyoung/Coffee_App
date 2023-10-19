@@ -19,12 +19,8 @@
 <h3> :sparkles: Preview </h3>
 <hr/>
 
-<a href="https://ibb.co/mNZD41s"><img src="https://i.ibb.co/9ZK8WzX/React-app.gif" alt="React-app" border="0"></a>
+<img src="https://i.ibb.co/9ZK8WzX/React-app.gif" alt="React-app" border="0">
 
-
-
-<h3> :link: Web Link </h3>
-<hr/>
 
 
 
