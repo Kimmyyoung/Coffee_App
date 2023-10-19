@@ -19,18 +19,20 @@
 <h3> :sparkles: Preview </h3>
 <hr/>
 
-<img src="https://velog.io/51f19434-2472-41b3-a079-a36a897ea240" width="300px" height="max-content" alt="coffeeapp" border="0">
+<a href="https://ibb.co/mNZD41s"><img src="https://i.ibb.co/9ZK8WzX/React-app.gif" alt="React-app" border="0"></a>
+
 
 
 <h3> :link: Web Link </h3>
 <hr/>
-  <p>Click :point_right:  </p>
+
 
 
 <h3> :memo: Platforms & Languages  </h3>
 <hr/>
 
 ![React-Native](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF.svg?&style=for-the-badge&logo=MUI&logoColor=white)
 
 <h3> :hammer: Tools </h3>
 <hr/>
